@@ -4,12 +4,12 @@
 @charset "utf-8";
 
 // Example Defaults
-// $base-font-family: Helvetica, Arial, sans-serif;
-// $base-font-size:   16px;
-// $small-font-size:  $base-font-size * 0.875;
-// $base-line-height: 1.5;
+ $base-font-family: Helvetica, Arial, sans-serif;
+ $base-font-size:   16px;
+ $small-font-size:  $base-font-size * 0.875;
+ $base-line-height: 1.5;
 
-// $spacing-unit:     30px;
+ $spacing-unit:     30px;
 
 // $text-color:       #111;
 // $background-color: #fdfdfd;
@@ -34,7 +34,7 @@
 // }
 
 // variables.less
-$theme-primary: #0d12b5;
+$theme-primary: #fdb827;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
