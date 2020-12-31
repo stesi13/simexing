@@ -1,7 +1,7 @@
 # Site settings
 title: Simexing
 email: simexing@gmail.com
-phone: +0948 402 420
+phone: +421 948 402 420
 description: >  # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
